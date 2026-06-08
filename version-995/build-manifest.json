@@ -1,0 +1,18 @@
+{
+  "siteName": "日韩视频平台",
+  "movieCount": 2000,
+  "categoryCount": 10,
+  "videoSourceCount": 20,
+  "categorySizes": {
+    "rihan": 201,
+    "guochan": 202,
+    "gangtai": 197,
+    "oumei": 201,
+    "action": 201,
+    "romance": 201,
+    "scifi": 200,
+    "anime-variety": 198,
+    "series": 201,
+    "classic": 198
+  }
+}
